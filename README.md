@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=##443FD7&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=443fd7&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#443FD7&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!;My+name+is+Sara+Vieira;I'm+19+years+old;Frontend+Developer;Building+modern+web+interfaces+%F0%9F%92%BB)](https://git.io/typing-svg)
 
@@ -10,4 +10,4 @@
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#443FD7&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=443FD7&height=120&section=footer"/>
