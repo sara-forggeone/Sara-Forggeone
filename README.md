@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=443FD7&size=32&center=true&vCenter=true&width=900&lines=Welcome+to+my+profile!;My+name+is+Sara+Vieira;I'm+19+years+old;Frontend+Developer;Building+modern+web+interfaces+💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=443FD7&size=32&center=true&vCenter=true&width=900&lines=Welcome+to+my+profile!;My+name+is+Sara+Vieira;I'm+19+years+old;)](https://git.io/typing-svg)
 
 </div>
 
