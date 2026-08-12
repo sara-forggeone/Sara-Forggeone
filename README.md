@@ -12,7 +12,7 @@
 
 ### ⭐ GitHub Activity ⭐
 
-[![Sara's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sara-forggeone&bg_color=0d1117&color=443FD7&line=443FD7&point=8a88ff&area=true&hide_border=true)](https://github.com/vieiraasara)
+[![Sara's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sara-forggeone&bg_color=0d1117&color=443FD7&line=443FD7&point=8a88ff&area=true&hide_border=true)](https://github.com/sara-forggeone)
 
 </div>
 
